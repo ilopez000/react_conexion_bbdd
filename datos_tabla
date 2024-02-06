@@ -1,0 +1,11 @@
+INSERT INTO coches (marca, modelo, km) VALUES
+('Toyota', 'Corolla', 50000),
+('Ford', 'Fiesta', 60000),
+('Honda', 'Civic', 30000),
+('Chevrolet', 'Aveo', 40000),
+('Volkswagen', 'Golf', 70000),
+('Nissan', 'Sentra', 20000),
+('BMW', 'Serie 3', 80000),
+('Audi', 'A4', 55000),
+('Mercedes-Benz', 'Clase C', 60000),
+('Mazda', '3', 45000);
