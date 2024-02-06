@@ -1,0 +1,2 @@
+Ir a la carpeta server y ejecutar node index.js. 
+Para el cliente React, simplemente ejecuta npm start en la raíz del proyecto React.
