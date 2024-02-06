@@ -1,0 +1,4 @@
+npx create-react-app visualizador-coches
+cd visualizador-coches
+npm install express mysql cors
+npm install axios
